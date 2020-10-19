@@ -20,8 +20,8 @@ const Landing: React.FC = () => (
       </main>
 
       <div className="location">
-        <strong>Santa Rosa do Piauí</strong>
-        <span>Piauí</span>
+        <strong>Brasilia</strong>
+        <span>Distrito Federal</span>
       </div>
 
       <Link to="app" className="enter-app">

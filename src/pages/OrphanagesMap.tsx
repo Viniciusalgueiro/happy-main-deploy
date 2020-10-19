@@ -37,13 +37,13 @@ const OrphanagesMap: React.FC = () => {
       </header>
 
       <footer>
-        <strong>Santa Rosa do Piauí</strong>
-        <span>Piauí</span>
+        <strong>Brasília </strong>
+        <span>Distrito Federal</span>
       </footer>
     </aside>
 
     <Map
-      center={[-6.8001529, -42.2843776]}
+      center={[-15.8439433, -48.0312814]}
       zoom={15}
       style={{ width: '100%', height: '100%' }}
     >
